@@ -55,9 +55,9 @@ Performance tested on Apple stock (2015-2022):
 
 | Market Condition | Annualized Return | Sharpe Ratio |
 |------------------|-------------------|--------------|
-| Volatile Period  | 18.775%          | 0.365        |
-| Growth Period    | 0.843%           | 0.063        |
-| Decline Period   | -0.927%          | N/A          |
+| Volatile Period  | 18.77%          | 0.365        |
+| Growth Period    | 0.84%           | 0.063        |
+| Decline Period   | -0.93%          | N/A          |
 
 ## Technologies Used
 
